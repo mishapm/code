@@ -1,4 +1,3 @@
-# code
-Poluyanchyk Mikhail Maratovich
+# Poluyanchyk Mikhail Maratovich
 Zaochnyy fakul'tet, 3 kurs
 Informatsionnyye sistemy i tekhnologii
